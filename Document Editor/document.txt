@@ -1,2 +1,3 @@
 Hello world!
 Image: [cat.jpg]
+Video: [bike.mp4]
